@@ -1,22 +1,6 @@
 # wiki
 
 
-
-
-1. Общая информация
-2. Ветки
-2.1. Постоянные ветки: master и develop
-2.2. Функциональные ветки задач: feature/<issue-id>-description
-2.3. Ветки релизов: release/<release-tag>
-2.4. Ветки хотфиксов: hotfix/<optional  issue-id>-<description>
-2.5. Ветки багфиксов: bugfix/<optional issue id>-<description>
-
-
-
-
-
-
-
 1. Общая информация
 
 В рамках работы с Git существует несколько популярных стратегий. Фокус данной статьи направлен на описание применения стратегии GitFlow
